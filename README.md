@@ -1,6 +1,3 @@
-
-
-# 💫 About Me:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=30&pause=1000&color=F75B11&background=1EFFEE00&multiline=true&width=435&lines=Hello%2C+I'm+Luca+Forma+)](https://git.io/typing-svg) 
 <br>
 <br>

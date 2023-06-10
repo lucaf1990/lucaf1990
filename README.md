@@ -2,7 +2,7 @@
 <br>
 <br>
 💼 Versatile professional passionate about technology, with a strong background in psycho-pedagogy and significant international experience.  Acquiring cutting-edge technological and digital skills. Motivated to leverage my versatility and passion for technology to contribute to business success. 
-👨‍💻 🌍 I'vw lived and worked abroad, gaining valuable intercultural and linguistic skills. Worked in the United States and Australia, adapting to diverse work environments. 🌱 I'm actively participate in industry events and conferences. Stay updated on new trends and opportunities in the field and enjoy sharing knowledge with the community.<br><br><br> 🔗 Let's Connect!<br><br>- LinkedIn: [Luca Forma](https://www.linkedin.com/in/luca-forma-987024270)<br>- Website: [Your Website](https://www.yourwebsite.com)<br><br>I'm open to new professional opportunities and interesting collaborations. Feel free to reach out! 🤝<br>
+👨‍💻 🌍 I'vw lived and worked abroad, gaining valuable intercultural and linguistic skills. Worked in the United States and Australia, adapting to diverse work environments. 🌱 I'm actively participate in industry events and conferences. Stay updated on new trends and opportunities in the field and enjoy sharing knowledge with the community.<br><br><br> 🔗 Let's Connect!<br><br>- LinkedIn: [Luca Forma](https://www.linkedin.com/in/luca-forma-987024270)<br>- Curriculum: [Curriculum](https://www.linkedin.com/in/luca-forma-987024270/overlay/1635529238418/single-media-viewer/?profileId=ACoAAEI2AncBQbvU-xwhTrnEOS-CosQfv9NhRsw)<br><br>I'm open to new professional opportunities and interesting collaborations. Feel free to reach out! 🤝<br>
 
 
 # 💻 Tech Stack:

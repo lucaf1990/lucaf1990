@@ -6,7 +6,42 @@ Hello, I'm Luca Forma 👋<br><br> 💼 Versatile professional passionate about 
 
 
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)](URL_Java)
+[![Eclipse](https://img.shields.io/badge/Eclipse-%232C2255.svg?style=flat-square&logo=eclipse&logoColor=white)](URL_Eclipse)
+[![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)](URL_Spring)
+[![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)](URL_jQuery)
+[![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=flat-square&logo=apache-maven&logoColor=white)](URL_Maven)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)](URL_Spring_Boot)
+[![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-%23F05032.svg?style=flat-square&logo=spring&logoColor=white)](URL_Spring_Data_JPA)
+[![Spring Web](https://img.shields.io/badge/Spring_Web-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)](URL_Spring_Web)
+[![Spring Security](https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)](URL_Spring_Security)
+[![JJWT](https://img.shields.io/badge/JJWT-%23336791.svg?style=flat-square&logo=java&logoColor=white)](URL_JJWT)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white)](URL_PostgreSQL)
+[![Lombok](https://img.shields.io/badge/Lombok-%23BC2F2E.svg?style=flat-square&logo=java&logoColor=white)](URL_Lombok)
+[![Java Persistence API (JPA)](https://img.shields.io/badge/JPA-Java_Persistence_API-yellow?style=flat-square)](URL_JPA)
+
+[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](URL_HTML5)
+[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)](URL_CSS3)
+[![SASS](https://img.shields.io/badge/SASS-%23CC6699.svg?style=flat-square&logo=sass&logoColor=white)](URL_SASS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)](URL_JavaScript)
+[![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white)](URL_NPM)
+[![React.js](https://img.shields.io/badge/React.js-%2361DAFB.svg?style=flat-square&logo=react&logoColor=white)](URL_React)
+[![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white)](URL_TypeScript)
+[![React-Redux](https://img.shields.io/badge/React--Redux-%23593d88.svg?style=flat-square&logo=react&logoColor=white)](URL_React_Redux)
+[![React-Router-Dom](https://img.shields.io/badge/React--Router--Dom-%23CA4245.svg?style=flat-square&logo=react-router&logoColor=white)](URL_React_Router_Dom)
+[![Redux-Persist](https://img.shields.io/badge/Redux--Persist-%23764ABC.svg?style=flat-square&logo=redux&logoColor=white)](URL_Redux_Persist)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)](URL_Bootstrap)
+[![FontAwesome](https://img.shields.io/badge/FontAwesome-%230845F6.svg?style=flat-square&logo=font-awesome&logoColor=white)](URL_FontAwesome)
+[![React-DatePicker](https://img.shields.io/badge/React--DatePicker-%231CA6E1.svg?style=flat-square&logo=react&logoColor=white)](URL_React_DatePicker)
+[![Redux-Thunk](https://img.shields.io/badge/Redux--Thunk-%237764BC.svg?style=flat-square&logo=redux&logoColor=white)](URL_Redux_Thunk)
+[![Axios](https://img.shields.io/badge/Axios-%23007BFF.svg?style=flat-square&logo=axios&logoColor=white)](URL_Axios)
+
+[![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=trello&logoColor=white)](URL_Trello)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)](URL_GitHub)
+[![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)](URL_Git)
+[![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white)](URL_Postman)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)](URL_Discord)
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)](URL_VSCode)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lucaf1990&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lucaf1990&theme=dark&hide_border=false)<br/>

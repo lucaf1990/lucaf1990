@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=30&pause=1000&color=F75B11&background=1EFFEE00&multiline=true&width=435&lines=Hello%2C+I'm+Luca+Forma+)](https://git.io/typing-svg) 
 <br>
 <br>
-💼 Versatile professional passionate about technology, with a strong background in psycho-pedagogy and significant international experience.  Acquiring cutting-edge technological and digital skills. Motivated to leverage my versatility and passion for technology to contribute to business success. 
-👨‍💻 🌍 I'vw lived and worked abroad, gaining valuable intercultural and linguistic skills. Worked in the United States and Australia, adapting to diverse work environments. 🌱 I'm actively participate in industry events and conferences. Stay updated on new trends and opportunities in the field and enjoy sharing knowledge with the community.<br><br><br> 🔗 Let's Connect!<br><br>- LinkedIn: [Luca Forma](https://www.linkedin.com/in/luca-forma-987024270)<br>- 
+💼 passionate about technology, with a strong background in psycho-pedagogy and significant international experience.  Acquiring cutting-edge technological and digital skills. Motivated to leverage my versatility and passion for technology to contribute to business success. 
+👨‍💻 🌍 I've lived and worked abroad, gaining valuable intercultural and linguistic skills. 🔗 Let's Connect!<br><br>
 
 
 # 💻 Tech Stack:

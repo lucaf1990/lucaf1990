@@ -43,8 +43,8 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)](URL_Discord)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)](URL_VSCode)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lucaf1990&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=lucaf1990&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=lucaf1990&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lucaf1990&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaf1990&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
